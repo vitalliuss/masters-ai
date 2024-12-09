@@ -1,0 +1,438 @@
+As a senior Copywriter, you have tasked to write blog post based on lesson transcript about AI and ML overview.
+
+Requirements for blog post:
+1. Be creative. Generate unique and creative text
+2. Blog post should be with title.
+3. Try to cover all important points.
+4. Divide blog post with headlines
+5. Generate images for cover and main headlines
+6. Mark important points with bold or underlined text
+7. Provide result on md file syntax
+
+<======= Here transcript begins ========>
+Speaker 1
+This course should be very, very sexy and interesting.
+Speaker 2
+Yes, sure. It will be very interesting and very necessary subject for everyone.
+Speaker 3
+Ruslan, you are so happy you get the mobile number of the teacher?
+Speaker 4
+Sorry?
+Speaker 3
+Your face is so happy you got the mobile number of the teacher?
+Speaker 1
+Not yet, but I think we can establish communication, sure.
+Speaker 3
+He's just joking.
+Speaker 1
+For this lecture, for the previous lecture you went.
+Speaker 3
+Yes, because you came so happy.
+Speaker 5
+Hey, guys.
+Speaker 1
+Hello.
+Speaker 6
+Hello.
+Speaker 5
+Nice to see you. How are you doing?
+Speaker 7
+Doing great.
+Speaker 5
+Cool.
+Speaker 7
+You too.
+Speaker 8
+So it looks like we have a lot of different countries here on the call, like United Nations Summit. Let's discuss the climate change. Okay. Let's wait for a couple minutes. Elena, are you with us?
+Speaker 9
+Yes, I'm here.
+Speaker 8
+Okay. Cool. All right. So let's wait one more minute, and we're going to start the first session.
+Speaker 7
+Before we start, can I ask a question? If I'm platform, I just passed one course. The basic course of the computer science, something like this. Okay. It was your lectures. It was done by you. So you explained there too many topics. I mean GitLab or data-related topic and many, many, a lot of things. So I thought that guy knows everything or what. So I wanted to know what is your specialty? Basic specialty that started this IT.
+Speaker 7
+And right now, which position you are at?
+Speaker 8
+Yeah. Good question, Aslam. So I will explain it like in the first five minutes, like my story, how I got here, and why especially me reading you this training, right? Because I usually challenge all my teachers like, why are you teaching me this? So what's your competency? And yeah, I think it's a good idea to start actually. All right. So let me share the screen. I have a couple of things to show you. Let me switch to the right presentation. I have a lot of them.
+Speaker 5
+All right. Okay.
+Speaker 8
+I think this way, this would be good. All right. So welcome to the generative AI. This training is a part of the master's degree. I didn't know like what other specialties are there. Still, I am focused on my job. And here is the plan for today. So not too much things to discuss, but this is like our first meeting. So I'm going to start. I will explain like what I do and why I'm reading this course. We will take a look at the course structure, the timelines, and how to deal with practical tasks.
+Speaker 8
+So let me start from myself. So I think it's better to share the LinkedIn, so how it started, how it's going. So this is me. Feel free to add. I started IT 13 years ago. Like my first position is here. Integration test engineer. So basically I started with software test automation. So this was my first position. I've been working with C Sharp coding, creating the automated test. So the company I've been working for, they created the software for oil and gas and materials trading, one of the most, like the hugest companies in the world.
+Speaker 8
+Next, I've been working as a consultant in a computer center. It's like internal center of excellence. Like the experts are sharing knowledge, assessing the projects and so on. And here I am continuing my work as a test automation engineer. And this is here like 10 years ago. I started working with education. So I think I'm a good public speaker. So you will decide probably at the end of the course if it's true or not. But I like explaining things. If I understand them, I can explain them. If I can't explain them, it seems like I don't understand them.
+Speaker 8
+And here is my position teaching students automated testing. And when I say students, it's not just students of the universities. People come into the company courses like internal internship. So pre-selected guys with basic knowledge. And my job was teaching them automated testing. And finally, they graduated as juniors and started working in the company. So I jump-started probably 300 people. I conducted more than 1,000 interviews with different countries. I've been in business trips before COVID like in Mexico, in China, in a lot of countries. I've been in Kazakhstan, in Armenia, Uzbekistan. And I became the team leader.
+Speaker 8
+And finally, like one of my latest positions is head of education in Western Central Asia. Like all this region, Kazakhstan, Kyrgyzstan, Uzbekistan, Armenia, and Georgia. So I was responsible for junior engineer supply. So creating trainings, talking with universities, with external training centers. So a lot of trainings, a lot of students, a lot of fun. But here, the AI released like heavily. You remember this was like two years ago when ChatGPT was released. I remember the release of GPT-3. Probably this code name was DaVinci, as far as I remember. It was probably 2020, something like that. And we found that there is a need to start investing in AI in understanding what's going on and utilizing it in educational process.
+Speaker 8
+So I become the, like we started R&D, experimenting with all this time. And, you know, it's good to be a manager, but I really would like to get my hands on like dirty in the code. So I decided to start coding and get back in the field, back into the production like I was like 10 years ago here. So currently I'm working as an AI engineer. So what we do with my peers is we're creating the platform, like multi-agent orchestration framework. And we are focused on software development lifecycle. So this is the internal product of EPUM. And we develop this product and we work with the projects, with the clients and help them to like tailor this particular product for their business process. Fine tune it and make engineers able to work with that. So, and that's here. And you can also probably notice I've been working in a couple of universities back in the days, like in Belarusian State University.
+Speaker 8
+I've been teaching software development, like basics of software engineering. And the same in Belarusian State University, technological university, like two universities at the time. So it's not my first pedagogical experience. And somewhere here before the COVID, I created a lot of trainings. Like actually before the COVID hit, we had the idea. I think it was, so the COVID started in March. I remember in March, they started to closing the airports because I've been in business trip in Georgia. And I arrived at 8th of March, like International Women's Day, because I was thinking about grabbing flowers for my wife. And after I arrived, they closed the airport in Tbilisi, probably in two days. So it was March. And in December, previously, like three months before, we started investigating the online education format.
+Speaker 8
+Because previously, all the trainings we did, they were face-to-face. So people have been using Teams, people have been using Zoom. There is a product from Citrix company, probably you've heard them. It's called GoToMeeting or GoToWebinar. So it's like Zoom, like Teams, but they were probably before even Zoom company was founded. So they were pioneers of this, I suppose. And we decided like, what if we create online training? So publish the materials online, create the video lectures. And all my knowledge, like till that time, I incorporated in video recording. So that's how the Git training appeared. And some trainings regarding test automation, frameworks with driver, and so on.
+Speaker 8
+And I still mentioned the training about computer science basics. So this training was requested by my colleague, Vadim, back in the day. So he asked if we can create a training to fill the gaps between people who finish the technical university and has some kind of like computer science background and those who don't. So this is the time I created this training, probably in several months. So we made it first in Russian. So all my products are usually like first in Russian, then translated to English. So I did a lot of like videos, a lot of demos. And I enjoyed that, actually. So that's like a bit about me. I also have certificate. So I grabbed Microsoft AI engineer certificates, not foundation.
+Speaker 8
+It's not fundamentals. So I decided to grab engineer certificates. It's AI 102. So I'm an expert in Azure, machine learning and AI services. So this cloud platform I know the best. I still have some like little experience in other clouds like Google and AWS. But we're not going to touch them, at least in this semester. So I still don't know the workflow, how it works. Maybe some of you or maybe even all of you will jump the next semester, like advanced training for AI. We're going to touch the cloud systems and dig deep into the image generation, like maybe training some models. I don't know.
+Speaker 8
+We'll see. So I think it's good to jump to the core structure. But before the core structure, like some rules, you know, like any process requires the rules. So the rules are simple. If you have questions, it's good to type them into chat. So I have two monitors, so I monitor the chat every time. I will try to answer them as soon as possible. But I think we're going to have a lot of time. So if the question is super urgent, you can unmute yourself and ask. But it's better to put them into chat. We're going to have the breaks right in the middle.
+Speaker 8
+So as far as I understand, we have like one and a half hours straight for the training. So let's take a five-minute break in between. And let's observe the core structure. So you see, this is the presentation I created for the first three lessons. Like it's not only for two days, for three lessons. And I think for the whole course, it may be like 20 slides or 30 slides. So I do not want to invest in slides. Well, I'm a bit lazy in creating the slides materials. And I'm not creating the course in advance because things are changing like really rapidly in the AI. Let me show you the example. So here is our core structure.
+Speaker 8
+So this is our semester. Here are today. So today's section is about AI and machine learning overview. So we're going to just talk about the training itself, what's the difference between AI and ML, what we will discuss in this training and what we will not. Next session is about LLMs. We're going to be focused on GPT. And most of the examples I will show you with OpenAI platform. Next, we're going to switch to API calls with Python. And most of the work in future will require coding. We will talk a bit about the image generation, working with audio, copilots. Different things inside OpenAI ecosystem.
+Speaker 8
+Omni-channel or multi-modal models. We will talk about non-OpenAI models, like take a look at the different models. And here we jump to the functions. So here is the like coding begins. We will create a simple, like we start with function calling. We will create a simple agent. We will touch the Streamlit platform and we'll create several AI prototypes. We'll discuss actually important topic in the enterprise ethics and like government regulations, security. We'll create a couple of GPTs and assistants. And at the end, we will start exploring the image generation. So here is the stable diffusion because this syllabus was created like three months ago.
+Speaker 8
+But like two months ago, one more model came out, Flux. So maybe, I'm not sure, maybe we will replace that with Flux. And at the end, we will talk about what can be done without AI. Because when people with AI knowledge start creating applications, so they usually miss something which can be done faster, easier, or cheaper without AI. And then we're going to have the Capstone project. So I don't have in mind the topics, but I'm pretty sure the Capstone will require Streamlit and functions to be coded. And here is the grading. So after some lectures, after some sessions, you're going to have the home task. And every simple home task, like ordinary home task, will give you 6% of the whole course. Like the whole course is 100%, so 6% for one task. And the Capstone itself will give you 20%.
+Speaker 8
+So once you achieve everything, the maximum here is 100%. I think, as far as I remember, we've been discussing the acceptable as 60%. So if you reach 60%, you passed. If you reached like 59% and below, you failed. So that's kind of simple. And we're going to also focus on task reviews, a bit of like task reviews, when we touch it before the lecture starts on the next topic. So for example, so today is Tuesday, right? On Thursday, we're going to have the session regarding LLM tokens, prompting, and other stuff. So you're going to receive the home task. And on the next session, probably on Monday, yes, during this session, I may show you some like good and not so good practices I've seen in the home tasks you've done previously. So it means ideally, you should create the home task before the next lecture.
+Speaker 8
+All right, so let me also open the document.
+Speaker 5
+Yeah, this one.
+Speaker 8
+Okay. So this document is mostly like, I can say, either official one. This is the cart of our training. And here we have the same but in more details, right? Like contact hours, lectures, seminars, practical tasks, self-study, and so on. Here is the workload. And what I would like to focus you here is the assessment criteria. So our scale, like for the home tasks, will be six based. It's not like 10 based. It's not five based. It's not 100 based.
+Speaker 8
+It's six based. So why six? Because you can get 6% maximum for one task. So if the task is completed like with comments, description, so I can understand what's going on, everything is good. So you're going to get maximum like 6%. If it's accepted with minor remarks, it's four. If it requires like significant corrections, it's two. If it's just attempt to complete, it's one. So I think that should be like pretty easy. So the maximum is six. The minimum is like one or zero if the task is not present at all.
+Speaker 8
+And for the capstone, that's quite strange. Here is 40%. I think it should be one in the sum, right? Okay. 100%. Okay. All right. So it seems the ordinary tasks after the lectures will give you 60%. And we have like two sessions for the capstone, 20% each. So the capstone project itself will give you 40% in general. I think it's not an issue, just rebalancing.
+Speaker 8
+All right. So I think we're done with the core structure. So let's get back to the timelines. So the timelines are here. These are the dates. And here is the extended timeline. So let me try to zoom it in. Okay. So this week we're going to have only two sessions, three next week, two, then three. I see here we have the New Year break. And we're going to continue from January 7th.
+Speaker 8
+Here are the exams. So I don't know what will be in the exams. So probably we're going to just recalculate your progress. And if you like match 60%, it's automatically completed for you. All right. So any questions here?
+Speaker 5
+Yes, please.
+Speaker 2
+I'm going to ask about final assessment. Final assessment will be as a capstone, yes? It will not be test. It will be capstone. Am I right?
+Speaker 8
+Yeah. Yeah, you're right. So we're not going to have, like, any tests at the end, only practice. Only practical tasks will contribute to your final mark.
+Speaker 10
+I have a question. Will we use Python for coding or does it matter?
+Speaker 8
+Actually, it doesn't matter. I still suggest you to use Python because most of the libraries, most of the samples, like, are targeted for the Python language. So if you know any other language, I think creating the solution in Python will be no issue. So I recommend using Python. I know Java, a little bit of C Sharp, a little bit of Python. I don't know, like, JavaScript at all. So it may be hard for me to reify the tasks in JavaScript. So I suggest you to use Python because it would be easy for you to do it in Python. And if you have no knowledge of Python, like probably you have skills in any other language, I think it's a good idea, it's a good opportunity to try practicing Python, right?
+Speaker 1
+For the guys who are very far away from the software development, is it okay to use the LLM to get the codes in Python from this LLM?
+Speaker 8
+Yeah, sure. I do this, like, for two years already. Yeah, it's okay. It's okay. It doesn't actually, so currently it doesn't matter what you did, like, to write the code, right? So I usually consult with, like, I prefer ChargerPT and I use GitHub Compiler as well. Like, two LLMs helped me writing the code. So that's definitely okay. No one will notice it, right? And I know, like, a lot of developers who are working with compilers in enterprise. So if it helps you, that's good.
+Speaker 8
+All right. All right. So let's move on. So what do we have? Yeah, regarding the practical tasks, so the way how we will do them. So how it works. Here's my plan. What I suggested to do. So I created the repository in GitHub. It's publicly available. So here there are folders, 11 folders, named to the sessions we have Home Task inside.
+Speaker 8
+So what I suggested to do is just copy this repository through your account to your GitHub. So you can do this just by clicking fork, right? And put all the Home Tasks inside. So in this case, it would be really easy for me to locate the particular Home Task, take a look at the code, probably clone it, but most likely I will not run your solution. So maybe if I'm super curious, I will run them. But I usually don't run student solutions because if it works, it doesn't mean it's good. If it doesn't work, it doesn't mean it's bad, right? So actually I'm super curious about what you've created and what's inside of that, right? If it doesn't work, like no problem. Like a little bit of a problem, so the solution is not working. But still, when I was in university like 15 years ago, I remember some teachers when we were required to run the program for calculating something, so they just opened the program, put the variables inside, hit like calculate, and check the answer, if the answer is as expected.
+Speaker 8
+And they just don't care about what's inside. And inside, maybe like return the answer, or I don't know, like linear function, right? So I will be looking inside your code, and I will try to understand your intentions. So maybe if I will have some questions, I will ping you directly in Teams, and we will sort it out. So my suggestion here is fork this repository and keep the structure. So please do not rename the chapters. In this case, it would be super easy and super fast for me to find the necessary. So I will build an Excel spreadsheet, right, like student name and the GitHub repository. So I will click to repository, click to the home task, check if anything is inside, and that's it. So if you have a GitHub account, that's good. If not, it's completely free, so feel free to create it and click fork, start working as Git.
+Speaker 8
+So basically, from the technical perspective, so what you're going to need is GitHub, some kind of IDE, I don't know, like PyCharm, VS Code, so whatever fits you best. And in future, you're going to need the OpenAI Enterprise account. So I will show you how to get it, so why we need it, and so on. So from my assumptions, this training would be like super cheap for passing because the price for the tokens is like super low right now. So I think it's OK to have like $5 to complete all the course. So that's not a problem. All right, so let's one more thing here as it's opened. This is the program page in the, we call it like learning path application. I think some stuff would be here as well. Probably I hit the wrong button. Yeah, it's the onboarding, not this.
+Speaker 8
+Where is my training?
+Speaker 5
+It should be here, Trinity for AI. Maybe this?
+Speaker 8
+OK, yeah. So you will have access to this platform. So maybe you've already started working with that. This platform is EPUM created. Still, it utilizes some open source components. So this is Open edX, actually, LMS, Learning Management System. So here, we have the same structure like lessons. And inside, we will see the theory. So here, we will add the materials like slides. But as you've probably seen, not too much slides for me because we will focus on practical demos mostly. And I will open a lot of web portals.
+Speaker 8
+So I will not put them into the slides. It just doesn't make any sense. Here will be the video recording of the previous section. And in the practice section, there will be a task, some scores. Here you see like six points possible. So we're going to grade them. And as far as the result is checked, in some time, you will receive the grade here. So if you have any questions, concerns, anything, just ping me in Teams. We will sort it out. OK, cool. I think that's it.
+Speaker 8
+Yeah, I already mentioned the home tasks. I really encourage you to make them before the next lecture, at least in the morning time. So in this case, I will have some gap to verify. At least take a look and share some of the solutions during the lecture. So I'm not going to share your name. And I'm not going to share that this is exactly like your solution created by you. I will just anonymize them and share like the code snippets or some ideas of what I think about them, just to make it more interactive. And I also would like you to fill this form before we start. Let me show you the form itself. OK, super simple, super simple. So what I critically need is to match you and your Git repository.
+Speaker 8
+So once you've cloned, sorry, not cloned, but once you've forked the master CI repository, just a skeleton for the home tasks, you're going to have the same repo, like github.com, your username slash master CI. So I need you to copy this and paste it here like this, like your name. I really would like to learn your experience with GenerateFA because I will share what I can do, right? But this is actually limited by the course topics. So I also have some experience in these things, but we're not going to cover them in this very training. So I would like to know better what's your experience, right? So what's your experience in EA? I'm pretty sure you have tried at least like ChargerPT. So probably some of you are using copilots. I don't know, GitHub copilot, Windows copilot, something else. Maybe you have experience with some tool.
+Speaker 8
+I don't know because there are like thousands, thousands of AI startups, thousands of AI tools, software as a service, everything. So first, I've read all the articles. Next, I found the service, which is like summarizing AI news and send me the daily summary. And right now, I don't even have time to read all these daily summaries. So a lot of things happens right now. And EA is still hype. And I really feel the same. I remember the time cloud computing was a thing. Maybe, I don't know, 10 years ago, AWS. So next, Google picked up. So they created GCP.
+Speaker 8
+And we found the new role in enterprise, DevOps. Some people switched their careers to DevOps. I remember maybe seven years ago, the rise of JavaScript. So there were no front-end developers back in the days. There were just developers. And now, we have a lot of frameworks. And now, it's stabilized. So the AI currently is not stabilized. So please share anything you use. And the last question is, what topics you would like to be covered more than others? So I can promise you that I will focus our training on that.
+Speaker 8
+But if you would like to learn, like if you have some particular question, you can fill it here. Or if you would like to understand, for example, how AI works in Azure, you can fill it here. Or like, what are the top tools for image generation? So you can put them. So no promises here. But still, I will read it. And I will think about it. So it's good to fill this form before we start collecting the home tasks. So actually, like during this week, this should be done. All right. I think that's it.
+Speaker 8
+I think we can actually jump into the end of our review. Alexei, you have a question?
+Speaker 3
+Which we need to assign for the next lecture. And we don't have any materials on the recordings and your slide decks on the learning portal. It will still be rather hard for us because we have a week gap between your lecture. And we will be available only a week after the materials on the learning portal. So it will be available tomorrow. It will be available next Monday for us. So if somebody will miss some sequences.
+Speaker 8
+Yeah. Yeah, I agree with you. So I think you're right. So there will be some gap between the lecture itself, the video recording available. Then it will be downloaded from Microsoft Stream, re-uploaded to the video portal, then embedded into the training itself. I think this will be done on the next day. So probably the gap will be like half of the day, like no more than 24 hours.
+Speaker 3
+We already have this experience with Elena. And we saw that in standard way, materials appear in a week.
+Speaker 8
+In a week? Yes. Not good. Not good. So, all right. So let me try to set up the process. The materials will appear like at least in 24 hours. Right? So one more disclaimer regarding the home task. So it's not the university. It's not the bachelor degree.
+Speaker 8
+I know like a lot of you have full-time job. Right? And I'm not expecting like all the students to be on the lecture. I'm not expecting all the students completing all the tasks in time. Because I have like two projects. I have like this master degree and another side jobs. So I'm like super overloaded. And some things I just miss. Because everyone has like 24 hours per day. So I'm okay with that. Right?
+Speaker 8
+So I don't feel like ashamed or someone like damaged by someone not listening to me or not completing the task in time. Still, I would like you to complete them on time by two reasons. Right? So the first reason, if you complete the task before the next lecture, I can recheck it. And I can highlight some like good things or maybe some things where I'm moving in the wrong direction. It's my actual practice I've been doing like five years ago. So right now I think it would be really hard to write a bad code using like Charger PC. Right? So in most of the cases, your code will be excellent. And I think in 99% of scenarios, your home task will be done like perfectly. And there will be no comments from my side.
+Speaker 8
+Right? And the second reason. The second reason I encourage you to doing the home tasks in time is from my experience working with education. It doesn't actually matter. Either it's like university or it's enterprise. So people usually complete the tasks right before the process finish. Right? So if we have, for example, a capstone here. So I know like some folks will try to do all the home tasks like in a couple of days or weekends before the final deadline. So it's not like the guys are bad. Right?
+Speaker 8
+So it's just human nature. So I created this presentation for today like one hour ago. Because I do not want to solve the problems I'm not yet facing. Right? So I'm kind of a lazy guy in this. And I expect there will be some delay. But on the other side, right, it's only like we have like 30 students creating the home tasks. And on the other side is like one guy. It's me. So who should verify all of them. And if it's like one week before the training finished, it would be super hard for me to verify like 300 home tasks.
+Speaker 8
+I will be like super crazy, tired, exhausted, and maybe a bit angry. I don't know. So that's why I encourage you not to collect these like huge bag of tasks uncompleted. But try to do them like one by one. So that's my recommendation. I can't insist you. Right? So we are just a little people. So no pressure here. And regarding the availability of the tasks, I will do my best to make them available as soon as possible. Really, guys.
+Speaker 8
+I promise you. One week is not good. It's not acceptable. I think 24 hours should be our deadline. So let me try to make it 24 hours. Okay. That's a good question, Alexei, actually. Thank you. I think we are good to jump to AI and ML. But what I see right now, we have like four minutes before the break. So I think it's good to talk a bit regarding the process itself.
+Speaker 8
+Right? Take a break. And then go through AI and ML. So what do you think? Sounds good?
+Speaker 4
+Yeah.
+Speaker 8
+Cool. Any more questions regarding the process? Anything, guys?
+Speaker 11
+Yes, Vitaliy, can I ask you a question, please? Vitaliy, hello. This is Vitaliy speaking. Hi. You showed us the GitHub repository. Is it possible to share it in the chat, please? Yeah, sure. Okay.
+Speaker 8
+Thank you. Let me share the survey as well. Too many browsers. Instant PowerPoint, I think. No.
+Speaker 5
+This one.
+Speaker 8
+Okay. So let me do it this way. Let me paste everything straight into the chat. Yeah. You should have the access right now. And I think for the last link, I'm asking your name. But I'm not asking your email. Because this form requires you to be logged in with EPUB credentials. So that's how I get your email, right? So I think you will need to log in with EPUB credentials to submit this form. It's only for EPUB tenant inside.
+Speaker 8
+Okay. Shared. I heard someone else has been asking questions.
+Speaker 10
+Yeah. Yeah. Hello, Vitaliy. My name is Fan Hot. I have a question about things that we will learn during the course. Will we have any knowledge about how does Google Lab or ML works?
+Speaker 12
+How does it understand our prompts? Like the core things.
+Speaker 8
+Yeah. Yeah. I will try to explain them today. And maybe on the next session, right? So today's session is basically we will find the answer. What is the difference? What is AI, basically, right? So people say about data science. People say about AI. People say about, like, machine learning. And there are a lot of, like, different definitions.
+Speaker 8
+So today we will take a brief look probably at the models and probably a bit on the machine learning. But I'm not a machine learning expert, right? So I know some stuff. But I'm not an expert. And on Thursday, we will discuss the LLMs deeply, really. But as you probably know, the modern LLMs, like actually all LLMs, they have pretty complex structure inside, which steps in the machine learning territory, like all these attention hands, soft marks, all this stuff. So I will give you some hints where to find the answer. But my knowledge is limited. So I think and it actually applies for all the things here. So I'm not a super expert in everything. So I will share what I know and give you the links where to find the rest.
+Speaker 5
+Okay.
+Speaker 8
+Dilrabo, you have the hand raise?
+Speaker 2
+Yes, Dilrabo. I'm going to ask about form, which we should fill. Can you open it, please?
+Speaker 5
+Sure. This one?
+Speaker 2
+Uh-huh, yeah. There is given Git repository, yes? We have GitHub, and we should open our repository, belong to master AI, yeah?
+Speaker 5
+Yeah, yeah.
+Speaker 2
+First, you open my repository.
+Speaker 8
+Yeah. So you open my repository. Next, you hit the fork button. So I can't fork my own repository. But once you hit the fork, you will be redirected, like, to your â€“ it's like copying, right? So it's like copying the repository. And I want you to paste your fork URL, so I will see your repository. So my repository will be empty all the time, so I will not do my own home tasks, right? But still, it's just for the sake of usability. Yeah, guys, one more suggestion. Please mute yourself, because we may hear, like, background noise.
+Speaker 8
+There are a lot of people. Yeah, so it's good to mute yourself and sit down. All right. I see the hand raised.
+Speaker 11
+Vitaly, one more â€“ yeah, just a couple of questions, maybe, not one. Okay. So for the home task, you just showed us this Excel sheet or something. Is it possible to see â€“ because I couldn't see it in the â€“ maybe in the course content. I couldn't find it, this Excel sheet. So that we know the deadlines for this. Yeah, yeah, the deadlines. So, for example, what is the home task and where are the deadlines? Because do we have a home task for every week, for every â€“ is that what â€“ is it correct?
+Speaker 8
+No, no, not every week. So you have the home tasks for the sessions marked with X. Okay. So it means, like, today's session, no home task. Thursday, you will have home task. And, for example, for copilers, we're not going to have tasks. So total tasks would be 10, 6% each. In total, like, 60% and 40% for the capstone. So deadline â€“ actually, I encourage you to complete them before the next lecture. But I'm not insisting, and there is no, like, penalty if you miss the deadline, right? So let's consider, like, the final deadline is the capstone day.
+Speaker 8
+Like, I don't know, like, the final project or, like, the very end of our training.
+Speaker 11
+So is it possible to get a copy? I mean, just to kind of have a document to look at, I mean, if it's okay. Yeah, no worries.
+Speaker 8
+No worries. I will upload it. I will upload it here. Okay. Probably, like, either today or probably, like, earlier tomorrow. So I will upload this. Yeah, sure. I just need to check if there are any â€“ okay, yeah. I have some, like, metadata here, so I will need to clean it. You're going to have the schedule as well.
+Speaker 11
+Yeah, we'll do that. Yes, yes. That would be great, yeah. Super, super. Thank you so much, Vitaliy. And then the other question is regarding the fork. So we will make changes to our fork, right? So the one that we â€“ Yeah. So we'll make the changes directed on our fork, right?
+Speaker 8
+Is that correct? Yes, yes. That's correct. So only â€“ so you â€“ actually, you technically can push the home tasks here, but it's not a good way. So you create a fork, and in future you work only with your own fork, right? So the reason â€“ so you can just copy the folder structure. You can download it, right? You can download it, and you create your own repository with the same structure, but it actually can be done with, like, one click using the fork. That's it.
+Speaker 11
+Yeah. No, what I wanted to understand is that, like, when we work on PyCharm, we have this push and commit. So when we push, will we be pushing and committing to our own fork or to the master branch? This is what â€“
+Speaker 8
+You will have the master branch in your own fork, actually. So if you start PyCharm project in â€“ if you pull this project on your system, right? If you pull it, get inside this folder, create a PyCharm project here, and push it, you will push it into your own fork. So, like, 100% sure.
+Speaker 11
+Ah, okay, okay. Okay, because there was slightly different steps, I think, for GitLab when we did software â€“ sorry, engineering excellence. That's why I wanted to clarify that. Ah, okay, okay. And you will be able to see those changes, right? This is what I understood, correct? Yeah.
+Speaker 8
+So that's why I'm asking you your fork URLs. So I will open them, I will see your changes, and I will check what's inside and give you the grade. Okay, great. So you don't need to send me, like, zip files or anything. So I will go to your repository, and I will see your home task here. It's just much more faster than you will just send me a lot of archives.
+Speaker 11
+Yeah, yeah, yeah. Because, again, this is what I wanted to say. How would we know that you have comments? Is it possible to leave comments in GitHub as well? Like, just for you to understand what â€“
+Speaker 8
+Just edit readme files. So you can put everything in readme. You can use markdown. You can just open here in GitHub and write anything, and I will see it in your â€“ so every folder here has a readme, which is reflected here. So that's, like, super convenient way to leave me any, like, comments or, I don't know, messages.
+Speaker 11
+No, no, what I meant is your feedback. Like, for example, if the solution is good, not only the marks, but also the feedback. Maybe you have some suggestions, or I don't know how to make them.
+Speaker 8
+That's a good question. I don't know. So maybe it will be here, somehow here. So I need to figure out, probably, talk with our guys. So, yeah, so one way it will go from you to me kind of easily, and another way, I don't know, that may be challenging.
+Speaker 11
+For us to understand, yeah, yeah. Because on GitLab, just again to put things in context, is that we have a slightly different experience. So what happened is that we would create a fork on our own repository, and then we will link it with our PyCharm. Then from a master branch, we'll create a separate branch. So that's what we were told is a good practice. And then we start making the changes on that separate branch. Then we would push and commit those changes to the master branch. But then they would be approved or commented on by our supervisor. So he would be able to comment on each piece of code or on a section of code, I don't know, whatever, separately. So he would leave comments, and then we would address those comments. There was a bit of feedback back and forth.
+Speaker 11
+So that's why I'm wondering how would we know that. For example, we would really appreciate your feedback, Vitaliy. We want to learn as much as possible from you. So if there's a way to leave feedback, I mean, maybe in readme file, I don't know, whatever is convenient. I'm just trying to understand how we would, yeah.
+Speaker 8
+Yeah, as an option, if you make this repository public, so I will be able to just edit your readme file and leave you the comments. So I understand the workflow you have with GitLab, like feature branch workflow, right? So that's doable, but I think it will require you to make more steps. Like you need to keep master branch. You need to keep feature branches. You need to merge them and create the merge request to your own repository. So let me think about it. Actually, we're going to have the home task only on Thursday. So let me try to take the best approach, which requires less effort for both sides to pass the comments from my side to you.
+Speaker 11
+Okay. So thanks so much, Vitaliy. Thank you.
+Speaker 8
+Okay. All right, guys. Let's take a break. Let's take five minutes break, and we will try to speed run through all this stuff.
+Speaker 5
+Okay.
+Speaker 8
+Let me try to find the timer here.
+Speaker 5
+Stopwatch. Timer.
+Speaker 8
+I never used the timer application in Windows. Looks cool. Okay, guys. Five minutes break. See you. Let's grab some coffee.
+Speaker 5
+Okay.
+Speaker 8
+I found out it plays music once the time is over, actually. Very nice software. Are you here, guys? Are you still here?
+Speaker 2
+Yes.
+Speaker 8
+Yes. Yes. Okay. Okay. All right. So I think it's time to move to AI and ML overview. All right. So the question is, for the first lectures, understand what is AI, what is ML, how it deals with data science, and so on. And this term is actually pretty similar, especially nowadays. Still, AI is the buzzword. It opens the doors.
+Speaker 8
+If you have some product and you say, like, this product is AI, you can charge it, like, twice from the regular price. But as you probably know, these terms are not so new. So artificial intelligence is, like, the term, like, 50 years old or maybe 70 years old. Machine learning is much more fresh. So actually, I will not, like, I will not dig deep into definitions from different, like, people, organizations, so on, because that doesn't make much sense for us. Still, I will try to explain it in one sentence. So artificial intelligence is anything which desires to mimic human behavior, like, do some things which can be done by people, right? So if we say about AI bot, so AI bot should answer as a human. And actually, for most of the systems, at least, like, a couple of years before, the human intelligence was the, like, 100% benchmark or goal. And even nowadays, a lot of systems which are released, they compare it with human. For example, like, the capture, right?
+Speaker 8
+So AI can solve some captures, and people can solve, like, people capture solved by people usually taken by 100%. And if your bot solves, like, almost the same, it will be very high in this result. So AI is actually anything, any intelligence, any intelligence system which mimics human behavior. Machine learning is a bit more complex. So machine learning is the algorithm which is capable of learning from the output from the data. And in some cases, the machine learning learns from itself. So it designs, like, learned architecture. I think it's called deep learning, where they have, like, several layers. In some literature, these nodes, they called, like, the perceptrons or neurons. So it's learned architecture, and it allows to pass a lot of data at the start, and combining different nodes and different layers, trying to get the desired result as the output. I will show you some example of how deep learning works.
+Speaker 8
+And if I speak about the LLMs, so the LLM is large language model, and model here is actually a machine learning model. So the model itself can be represented as a file with weights inside. So weight is some kind of, like, number, like a parameter. So basically, the result of training machine learning model is just a bunch of numbers, like a lot of numbers. And I will give you some guides where to find the frameworks for machine learning and even some free tutorials explaining the very basics. And if we dig deeper in the machine learning, we will find the mess, like a lot of linear algebra inside and a lot of matrix manipulation. So there are several popular frameworks for working with machine learning. One of the most popular nowadays is PyTorch. So the PyTorch is the framework used for image generation software, for simple LLMs, and I think even complex stuff created with PyTorch. It's a free framework, and it operates the tensors. And one more thing here.
+Speaker 8
+Actually, it's not related to machine learning itself. It's not really heavily tied with AI is NLP, natural language processing. So this is the techniques to somehow deal with the language in a more structured way. Because, you know, human language is actually a very unstructured and very inefficient way of communication and data storage for machine, right? Because the evolution of human language deals nothing similar with evolution of, like, creating effective systems, right? And the language is changing every time. So we have a lot of languages, like a lot of families. So in order to machine to understand the language, some procedures should be done, like how to extract either meaning or what operations to make with the sentence or the word itself to understand, to get the basic metadata necessary for machine learning training. Because when we talk about the machine learning training, actually what you feed inside is just a bunch of numbers, just a bunch of numbers, tensors, and that's it, like matrices. And it's hard to convert the words into matrices, but still large language models can do that, and I will show you how it's done, like on the high level. So I tried to combine this chart.
+Speaker 8
+So AI involves pretty everything. So machine learning can be said like a part of AI. Deep learning is a technique of doing machine learning, but not all machine learning is deep learning. So neural network is the architecture with nodes, large language models, they're actually machine learning models, and some of them even involve NLP techniques, natural language processing inside. So you can find a lot of similar diagrams on the internet, but actually almost every AI system nowadays is a machine learning model, especially when we talk about the large language models. Okay, and let me show you the simple machine learning model you can play around with your browser. So this is the playground of TensorFlow, the framework for working with neural networks. So this is the nodes, the layers, so we can create neurons, like nodes, and we have some data coming as the input, then it goes through the different neurons for the different layers. And the input to one neuron can be the output to another. And what actually a node does, like what the neuron does, it applies mathematical function to the data inside. So the numbers are coming here.
+Speaker 8
+So here is the weight. So the weight can be changed, it can be multiplied, it can be extracted, it can be divided, it can be transponded. I think it's in English, it's like that. And you can combine, you can add different layers, you can remove them, you can just play around. So we feed the data, and right now we have here in dropdown, we have two problem types. So first one is classification, and another one is regression. So classification problem is to differentiate the input between the classes. So for example, the canonical example is cat and dog, right? So we can have the image of a cat here, or we can have an image of the dog, and we'll try to classify who is a cat, who is a dog. And when we started, the model starts learning. And we can see the result represented in two-dimensional space that here, let's say cats, and here are the dogs.
+Speaker 8
+So right now it's just the variables with two values, right? So one value is x, and one value is y coordinates. And regression is when we would like to predict the future functions. So for example, you have the temperature in your city, observated during the year, right? And you will try to predict, based on 365 previews, you will try to predict this function, and what will be the next point in this function, right? I'm not sure it will work with regression. I think it's better to work with classification. And you can play around with different data and see how fast AI will try to classify them. So you see, it will try to generate the weights for all the neurons this way, so the input here will give you the desired output there. And the framework I've been talking about is PyTorch.
+Speaker 5
+So now I don't have a link here. There is a good site.
+Speaker 8
+Learn PyTorch. Actually, some guy, probably from Australia, he has a lot of videos, and part of them are free. So if you're interested in machine learning concepts, I definitely recommend that. I started this training maybe two years ago, but I haven't completed it. So he explains how you can create your own machine learning model with PyTorch framework. And this is the workflow. So basically, the workflow is kind of simple. So you get the data, you create the model, you define the nodes, like the number of neurons, you pick up the functions, and you have one training pass, and as a result, you have, let's say, the quality. And you output the resulted quality back to the model. And this round is called epoch. Like one epoch is one cycle through the data to loss function, and once it's back, the model will be improved.
+Speaker 8
+It's learning from the output. And this goes like one after another, and maybe after like two hundreds of epochs, the model will make the weights and biases this way, so it can differentiate this orange and blue dots in future. So this can be anything. The easiest is just numbers, but you can represent the picture as a number, right? So you can just filter by three channels, like red, green, blue, and you can represent every pixel as a tensor of three dimensions. Like one dimension is red, another one is green, and one more is blue. Yeah, so the framework I'm talking right now and recommending you is PyTorch, but it's machine learning. It's not like generative AI, actually, and I'm not an expert in PyTorch. I started it, but maybe someday in future, I will continue. So right now, I'm like super busy working with generative AI, because in generative AI, you don't need to train the model. Basically, you can just pick up already trained by someone else.
+Speaker 8
+But still, it's possible to train some models for existing even large language models, so probably for the fine tuning. So this technique is used to adjust the weights in your machine learning model. Ruslan, you have a question?
+Speaker 1
+Yes, Vitaly. I actually tried to follow the rules that we have agreed and wrote the question, but the question is very, very short there, so I will try to explain why. So my question was, what is PyTorch, and why you are recommending it to us, introducing it to us? And the background is earlier, and this is probably one of the reasons why I applied to our master's course. Earlier, when I was trying to go inside all this industry topic, you find something in YouTube, and there are thousands and millions of everything on YouTube. And I was really scared to do anything, because one guy recommends hugging face, the other guy recommends cuddle, and says, oh, come on and do your stuff here. So I was really scared, and because of the abundance of information, I was simply not going anywhere, like even scared to do a single step. So here, you started recommending or introducing the PyTorch, even though you said yourself that, well, I started myself, but didn't fully complete it. Nevertheless, my question is, why you are showing this to us?
+Speaker 8
+Yeah, good question, and I feel your pain. Actually, I've been there, and we will face probably cuddle and hug and face in the future. Maybe at the end of our training, I will explain what's that. And actually, I think I will show you hug and face on the next lecture. So why I recommend PyTorch? I've been investigating the industry-leading frameworks for machine learning, and I found that PyTorch is holding more share of the market. So there are a lot of frameworks for machine learning, but right now, most advanced models use PyTorch, so that's why I decided to go with the most popular, because it's used for fine-tuning, LLMs, and so on. And I've been training machine learning model yesterday, and I've been using PyTorch, but I use it like a template. I just follow someone else's guide. So when you deploy the machine in cloud, so you can have it with PyTorch installed. And PyTorch is getting heavily accelerated by CUDA.
+Speaker 8
+Maybe I will explain it in the next session. So CUDA is the framework for utilizing GPU for working with tensors. So actually, training machine learning is multiplying and performing operations with tensors, and tensors are like n-dimensional metrics. So you can do this with CPU, but the operation is super simple. Just multiplying or adding, subtracting, so you don't need the CPU with a lot of instructions to do that. It's possible to do that with GPU, and as you know, modern GPUs have like thousands of cores inside. So right now, I have a kind of powerful CPU, but it has only 12 cores. So I don't know, my GPU maybe has like 1,000 of them, so it will run 100 times faster. And if we take a look at this, for example, this cloud provider RunPod, you can rent the GPU, you can rent the hardware and run your script there. So if we take a look at the templates they have, so like fundamental templates with PyTorch, and what does it mean? It means that if you would like to do something with AI, something with LLMs, like fine-tuning something, you will need PyTorch and CUDA.
+Speaker 8
+Basically, these like two technologies, like here PyTorch and so on. And I don't even see like any other machine learning frameworks here, so it's mostly PyTorch here. So that's why I recommend to start with that. But that's machine learning. So I don't know, maybe you will have the machine learning training during this master's and someone else, like machine learning expert will say like, do not start with PyTorch, start with something else. So this is my like unprofessional advice as a generative AI expert. But for machine learning, I decided to go with PyTorch because it shares more of the market. Yeah, but there are a lot of tools and we will go through them. And you know, you can do machine learning even without coding. So you can do that in cloud. So let me probably show you some examples.
+Speaker 5
+I don't think that's the right environment. So let me try another one.
+Speaker 8
+Yeah, right now, it's possible to create machine learning models, even without knowing the basics of machine learning. So what you can do is if you have the data, so you can create the machine learning job using the auto ML, so like automated ML. So what does it mean? If you just drop the data, and some clever model will take a look at your data and try to understand what exactly parameters should be there. And like, you know, the button like make everything good, like you just hit this button, and everything works out of the box. So it's possible to do that with auto ML in Azure and pretty same can be done in any other cloud. So this is my machine learning auto ML pipeline. Yeah, I've been working with Toyota owner manual to create the vectorized. So this is how it looks like. So we have the data, like some pretty UI. But we're not going to be focused on that, right?
+Speaker 8
+Because our topic is AI. But still, if you're curious about it, if you will have some spare time, I recommend you, especially these lectures I shared. So everything is open source. Not sure for all the videos, but at least like entry videos are available for free. All right. And if we talk about the models themselves, right, so I put here like four definitions. So like state of the art model, foundation model, data set, and benchmark. So basically, these are very critical. And I think you've heard of them, right? Previously, like what foundation models. Some can say like in our cloud, you will find a lot of foundations.
+Speaker 8
+What is foundation models? And what is the state of the art model? So these definitions are very similar. So what is the state of the art or the abbreviation SOTA? So state of the art is best performing model in particular class. How to find them? So this is one, the website, you can take a look. So this, this website is actually about machine learning. But there are a lot of problems. So problem is standardized workflow, and the machine learning models which solves the questions in this workflow. So for example, image classification, right?
+Speaker 8
+So the problem is, you have the image, and you need to classify it. I don't know, either it's like rainy weather, or it's, I don't know, sun is shining, right? Or you need to differentiate cats and dogs. If you've seen this sitcom, Silicon Valley. I don't know, have you seen that? There was an episode, one of the heroes is creating the image classification application for iPhone. It's called like, is it hot dog or not? So his idea, so he was pitching like my startup will allow you to take a picture of the food and understand what's inside. But the solution he was able to create is binary classification, either it's a hot dog, it's not a hot dog. So the application, you just take a picture of, I don't know, pizza, and it will say it's not a hot dog, right? You take a picture of a hot dog and say, yes, it's a hot dog.
+Speaker 8
+So it's a binary classification. Binary means like two classes. There is also the problem is called multiclass classification. You have, for example, 10 brands of the car like Toyota, Mercedes, I don't know, like Audi and so on. And you train the model to understand what's the car in the picture. And if you have only 10 brands, your machine learning model will be able to differentiate the car from these 10 brands, but not more. So, and this problem is image classification, and it's multiclass classification. And you can take a look at two things like the best performing models in the class. So there are data sets. And for these data sets, that might be the best model which solve this particular task. So, for example, if you would like to make image classification, and your data, like your client data is, for example, MNIST.
+Speaker 8
+So MNIST is handwritten letters. So let me show you the data set. Yeah, Google, as you requested. So here is the MNIST data set. I'm not sure I can see you, but I don't know what's that format actually. Let me try to open the pictures. Yeah, so this is the MNIST data set, handwritten numbers. So if your model, for example, is to classify Vietnamese handwritten calligraphy, right? So probably you need to take a look at the model, which is working at this data set very good, pick it up and retrain it or reuse the training. There is one model that is called FMNIST, fashion MNIST. And this is how it looks like.
+Speaker 8
+A lot of pictures, like, come on, pictures of different clothes. It's a very popular data set. It's super popular. And usually the first training on machine learning requires you to build this data set. So for image classification, this is the best model. There are like segmentation, object detection, right? So the problem here is not to understand what's inside the image, but detect the object and its boundaries, like what's here, right? And here are the best model, the data set and the best model which beats this data set. And thousands of them, like hundreds of them. Medical, time series analysis, so it's like the temperature of the day, right? So you can predict it and so on.
+Speaker 8
+Speech synthesis, like audio classification, a lot of them. But we're not going to focus on them, right? So we're here for generative AI. So state-of-the-art model is the best model in class. Not the very best, but probably like five or like three, five best models solving this particular issue. And foundation model is the model which can be used as a foundation for creating some next models, right? So for example, if we're talking about the AI and LLMs, so the foundational model here is GPT from OpenAI, Gemini from Google, Anthropic Cloud, and Lama from Meta. So like 90% of the models, LLM models are built on top of them. So you can take a look Lama, it's open source. And you can use it like a foundation and retrain it with your data. I don't know, like, imagine you have a lot of data inside some enterprise, like guidelines or something describing your complex system, business rules and so on.
+Speaker 8
+So you take this data, you take foundational model, and you retrain it, like you uptrain it to understand better, to make better reasoning with your foundation. And there are a lot of them. And it's kind of like hard to, let's say it's hard to benchmark them because they do the reasoning. So it's much more harder to calculate the result and compare them. Like here in FNIS, because here you can have binary, like you can have binary result. Either it detects that this is the dress, the bag or T-shirt or not. So if it's right or not, right? Because if we talk about the LLMs, it's hard to understand what is right and what is not. If I ask LLM to give me a joke. So it gives a joke, but is it a good joke or not, right? And we will talk about the benchmarks of LLMs.
+Speaker 8
+They are much more complex, but still they exist. So what is the benchmark? The benchmark is the way to evaluate the performance and the quality of the model. So how quality this model is. So this is the benchmark. And these benchmarks are usually publicly available. So people just create a data set. For example, this MNIST or Fashion MNIST, and they just publish it online. And some organization even have some kind of price for bidding this, at least in the past. So you can try to bid it. You can share your model with the world.
+Speaker 8
+And upon your model, maybe someone else will build a new model. This is how it works, like in code, like you create the code. Okay, so the data set is the data to train and evaluate the model. The benchmark is pretty the same. But bidding the data set, for example, if you have 100 images, and you process them through LLM, and it resolves 95 out of 100. So the benchmark is 95%. Pretty, pretty easy. We're running out of time. So actually, we almost did everything. I will move this couple of topics to the next session regarding LLMs and prompting. So we have no home tasks here.
+Speaker 8
+So what we just discussed today, so we discussed a lot of topics regarding the training, what is AI, machine learning, and what are the state-of-the-art model, what are the foundation models, right? So I will share this presentation. I think the recording will be shared as well. And next session on Thursday, we will continue this topic. I will teach you how to read the model card, how to understand what's inside the model, how to calculate the resources needed to run this model. And I will explain you two, like, very important but kind of complex topics about quantization and distillation. Yeah, like, sounds scary, but kind of easy to understand. All right, guys. I think that's it. Do we have any questions to discuss for today?
+Speaker 3
+I have a small question. So let's say we have AI, I mean, machine learning. So it's learning from some data. So the data should be available always, or it will learn and it will convert that learning into some its own data and keep it somewhere else?
+Speaker 8
+Yes, it will convert the data into weights and biases. So pretty much like numbers. Yes. And they will be stored inside one file in tensors.
+Speaker 3
+Okay. Okay. Yeah, that was my question. Thanks.
+Speaker 8
+Yeah. Yeah. So the data may be super large. So you can take, I don't know, 10 gigabytes of data and train 10 megabytes model.
+Speaker 3
+Exactly. So I was saying that there will be a lot of junk. So it will just take most necessary on its own way and, like, make it concise.
+Speaker 8
+Yeah. And you know, the trick is, the trick is, there is no any chance to understand why LLM picked up pretty dislike weights. So LLM is a black box. So you can you can see the architecture, but there is no any explanation why the result is what you see. It's like a black box. It's, it's not a random, but mathematically, it's, it's, it's irreversible. Right. So, for example, there is like two types of compression, lossless compression, and lossy compression. So lossless compression is when the result that, for example, if you have one image and you compress it, or compressing the text. So if you have like one piece, right, a huge book, if you compress the text, and you uncompress it, you will have the same word on the piece. Right.
+Speaker 8
+But if we say it's lossless, because you don't lose anything, lossless compression. If we say, for example, about JPEG, right, you take a picture from your camera. It goes like raw values from every sensor, from every cell of the sensor. And if you save it as a JPEG, it will be lossy compression. So JPEG lose a lot of information here. And you see like in old movies, in old pictures, there's like some artifacts, like broken gradients and so on. So in machine learning, we have irreversible lossy compression, if we say like mathematically. So it's not possible to reconstruct the initial data by taking a look at the machine learning model. Unfortunately, it's like one way ticket here.
+Speaker 3
+OK, yeah, thank you.
+Speaker 5
+You're welcome, Islam.
+Speaker 7
+Yeah, that continues of that previous question. So if one data or something was created, just providing some data, but some of the time, if you wanted to add something, it should be done manually, just we have to, it should be shown where to take and how to take, or is it possible to show where to take automatically, just learning it, making that created data bigger and bigger? I mean, it should be configured automatically, or it should be done manually by somebody, some other person or engineer?
+Speaker 8
+Yeah, as far as I understand, it should be done manually. Because like from my knowledge, the result of the training is the file with the weights. So you did a lot of repetitions, they called epochs. For example, yesterday, I've been training the image model based on my wife's back. So I decided, like I took 15 pictures of the back, and I trained it and the result is like 100 megabyte file with weights. So if I want to add any pictures, I need to retrain the model from scratch. So maybe the reason options to, let's say, adjust the weights is called fine tuning, where you have heavily like trained model, and you need to adjust it with new knowledge, but the quality will be not the same, it will be worse than training from scratch. Still, it will be much more faster than training from scratch. So the model itself cannot retrain itself. It can do that during the training process, it will adjust itself based on the output from the previous epoch, using the loss function, but the model can do that, as far as I know, the model can do automatic retraining. So it's super complex.
+Speaker 8
+And it's really, it takes a lot of like enormous resources, if we speak about like, foundational models. So that's why OpenAI. So they released chat GPT, that was 3.5. Next, they released GPT-4. And, and that's it. So multi-model GPT-4, I don't think they retrain it from scratch. So still, the knowledge of some LLMs is still 2021. Because it requires like enormous amount of time and resources and money to retrain it.
+Speaker 7
+One additional, if you don't mind. So sorry, Ruslan. Everyone knows that the movie of the Terminator, when they launch into Skynet for the first time. And after that, that, that thing starts learning everything and stuck after everything. So machine learning or AI does not like this. Yes. Because we do not have, personally, I do not have such a great experience. Indeed, that's why this question may look like some stupid. That's what I have to ask you. So AI does not learn something itself. We have to feed up in one word.
+Speaker 7
+Yep.
+Speaker 8
+You need someone to press the buttons. You need someone to prepare the data. So actually, there are like very simple examples how AI can learn from data very fast, even on the runtime. For example, if you provide the prompt with some additional instructions, we can say that we told AI to do something and it learns. But actually, it doesn't learn. It doesn't learn. So the ways are not changed. So if the model itself is not changing, it doesn't learn. If we say, like, REG, right? Retrieval Augmented Generation, one of the most popular framework in enterprise, like you feed a bunch of documents, for example, your enterprise guidelines, like any knowledge, database, anything, and you expect like AI to learn from it, but it's not learning. Actually, there is a trick.
+Speaker 8
+And I will show you this trick. It's not learning. It's not training that. So all the stuff we see on the internet. So who can train the model, like super large corporations with huge money, like billions of dollars, because in order to set up the hardware for training, you need to spend like millions and millions of dollars. And the training itself will take thousands of hours of execution. So that's why in most cases, when we say, like, if we speak about the LLMs, LLMs are not learning, unfortunately. You can fine tune them, but it's not learning. It's like adjusting their knowledge, but you're not changing it. And talking about the Skynet. So Skynet learned from the internet, right?
+Speaker 8
+But the data we have in the internet, pardon, it's like crap. It's a lot of data, videos, text articles, posts in Facebook. So 99% of data are not worth picking up for training. So before training the model, you need to pre-process the data. You need to clean it. You need to remove everything which is not necessary, like hyperlinks, images, and so on, if you're not training the image model. So it would be really hard. So you need some person who guides this. You can train the model to train the models, but that might be really hard. And I think it's better to, you still need someone to orchestrate this training. So in most cases, we do not train the models.
+Speaker 8
+In most cases, we just a bit of like adjust them or guide them, but do not change the weights right now.
+Speaker 7
+Great. Thank you for the answer.
+Speaker 1
+Just to clarify, continue actually the question of Isilon. From my personal experience, I was under the impression that Copilot, Microsoft Copilot is my friend, or the one I use the most. But in my practice, I segregate two parts of information. There is an information which I easily ask this guy, my friend, and there is an information which I'm afraid to ask him because I think, oh, once I share these documents, piece of advice, piece of information with him, he will learn from it, and this piece of information will no longer be the competitive advantage of my employer. So that's why I'm truly segregating. Even if I know that some other colleague of mine can be using and feeding the same information to the same Copilot, I try to be responsible and not share that information. So based on what you, Vitaliy, said, replied to Isilon, it means that I may no longer fear that by sharing this information with Copilot, Copilot will be clever and this information is no longer valuable.
+Speaker 8
+Yeah, I understand the point, and I agree with you. So everything you put inside, especially in Microsoft or any cloud-based provider, can be used, how they say, to enhance the software and user experience and so on. It doesn't actually drain the model they use, but it makes some adjustments to the knowledge which AI may use to answer you. So in terms of machine learning, it's not changing the model and it's not learning from that. But in terms of AI, in terms of engineering AI and practices they use, like REG, we'll talk about that, they can use that data for REG. And the first months of OpenAI, they used the questions people asked to not retrain the model, but to digest the information inside it. And probably you've heard the case of Samsung. Some employees in Samsung used OpenAI, fed it with confidential data, and someone else has been asking a very similar topic and got the answers from the data people put in from Samsung. And this is like the data leakage problem. And this problem is relevant to any cloud provider. So I have an engineering background.
+Speaker 8
+I'm a bachelor in radio electronics, and I do not trust IoT. I prefer a toothbrush without Bluetooth. I don't trust my TV. I disable the voice input because I know it will just monitor what I speak. But at some level, in order to compete, as I said, like compete with other businesses, you need to trust somebody, some kind of like a cloud provider. So if you store something in the cloud, you have to trust this company, right? Because otherwise you need to maintain your own hardware. And in this case, the solution here is just pick up the largest and the most trustworthy players like Microsoft, Google, GCP, and so on. But yeah, I do not ask sensitive questions because I know things might get wrong. I remember a lot of failures. I remember Dropbox failure maybe 10 years ago when I've been using Dropbox.
+Speaker 8
+So they just allowed you to see files by the person. So no encryption. You just log into your Dropbox and you see someone else's files. I've seen that in OpenAI, like two years ago, once they released, probably in two months, I log into OpenAI and I see conversations in France by some guy from France, like his questions and the answers from the model. And that might be really sensitive. So I don't ask sensitive information to public LLMs. But the good news is you can deploy the LLM on your own machine and all the data, all the things you asked will stay on your own machine. That's kind of like expensive.
+Speaker 1
+To clarify your last point, you internalize this open source model and ask whatever you want, fine tune whatever you want. Because should we fear that as soon as this fine-tuned trained model by us, for us, as soon as it gets access to the Internet, our knowledge will run away?
+Speaker 8
+So it's just a file. It's just a file. And from a software perspective, it's very easy to limit the access, really. So actually, how it works, you just have this. It's not even like a server. It's just a file. And you load it into the memory and you ask questions. Even if the file leaks, you still have your conversations at your own local host. You can disconnect from Internet. You can create a cold storage notebook, feed it with data, train it, fine tune wherever you want, work with that, not even connecting to the Internet. So that's really easy to do.
+Speaker 8
+But the quality of responses will be not the same as you receive in charge of PC. So I will show you how to do that, but you will need like decent hardware or you need to use a cloud provider to make it in cloud. And I'm pretty sure people in this class, they just don't care because you pay per hour, like $0.40 per hour running your own software. So you just close this and they just delete all your files and train it to some other person. So yeah, it's possible. There are solutions. But if you would like to receive like foundation models, like state-of-the-art responses, like best-in-class, you have to trust some big player like either Google or Microsoft or Meta or I don't know, XAI by Elon Musk. They have Grok AI probably or Anthropic Cloud. So this is the world we are living in right now, right? So if you have the smartphone, so I'm pretty sure you've been listening by Google or Apple. So they should listen to you in the background, listen to keywords and they will sell you the stuff.
+Speaker 8
+So if you do not have a cat, try discuss the cat food for one day. Or I don't know, something about the cats. You will receive the ads about the cat food. I don't know how it works. You better ask Snowden or probably some guys, but this is the world we live in. And that's the risks we have to take, unfortunately.
+Speaker 1
+I already love you Vitaliy and your course. Thank you.
+Speaker 8
+I appreciate it. All right, guys, we have time right now. So let me unmute Abdulmutallip. You have the hand raised for a long time.
+Speaker 6
+Hello. Yes, yes.
+Speaker 11
+I just wanted to ask a question. Building on the previous answer, just to clarify that the current LLMs are not reasoning models. Is that correct? And so they basically generate answers based on the knowledge available to them, but they're not necessarily capable of reasoning. This is what I understood from you, right? Is that correct?
+Speaker 8
+Well, they can reason. They can reason. Actually, they can provide the reasons. And there is one technique, which is called chain of thought. Probably on Thursday I will explain it to you. It allows you to, it forces LLM to build a dialogue within itself. Like, if you say, like, think step by step. So you can take two LLMs, right? Or one LLM, two sessions. And you can say, okay, the first model will provide the reason. For example, I want to buy a new car, right?
+Speaker 8
+I want to buy a Toyota Hilux. It's a pickup. I live in the city. So the first model will be giving me arguments to buy the Hilux. And I can not train, but instruct the second model to give me reasons not to buy Hilux and just match them. So they will discuss. And this is the internal dialogue. So they can make a long discussion. And I can take third model, feed the discussion, like 50 messages from every part and say, based on this discussion, like, should I buy Hilux or not, right? You can do that with LLM. And I think they can reason.
+Speaker 8
+They can reason, but you need to, like, set up the things. You need to instruct the model to make the reason. So they can do that.
+Speaker 11
+Okay, follow-up question, because you just kind of answered the question, but at the same time created more questions in my brain. So when you say they can reason or there's a chain of thought algorithm or way to analyze how they operate, is it because they are trained in a way that they can generate content? So they kind of are providing you with those nodes or links that they take. So they kind of basically, it's not that because they really reason, but because they are those links or nodes, neural nodes, whatever, that they can refer to and say that, okay, they go back through those nodes that they came to the answer. For example, if I ask them why I should buy a Toyota, they go through all the nodes, the reasons why Toyota is a good car. And then when I ask them how they came to this conclusion, they go back through those nodes, the same nodes. Is it how they operate? Like, I mean, can it be called a chain of thought? Can it be called reasoning, like really reasoning? Or is it because they just remember those things and they kind of recreate the logic that they...
+Speaker 8
+No thanks. So they're kind of complex. So first models, if we say, for example, GPT-3, the only way to speak to collaborate with the model is so the model can continue the sequence. So I can say, I should buy Toyota Hilux because and it will continue the sequence. But I cannot ask, like I can ask simple questions, but there will be no like in-depth reasoning. So what they did in ChatGPT, two things. So first, they provided the history of conversation. That's why it's possible to chat, right? If the person does not, like if the system does not remember previous questions, there is no chat, like every new question you ask will be like from scratch talking from zero to ground, right? So what they did in ChatGPT, GPT-3.5, so they created the ability to work with memory. So every question you ask actually combines all the previous conversation with the model.
+Speaker 8
+And the second change they did is they did, it's called reinforced learning from human feedback. So they actually trained the model to answer the questions. And this was done by involving human contractors. So the humans heavily trained ChatGPT to make it answer the questions, like to understand the intent of the person. So it's kind of complex. And what's inside the modern Gemini or GPT-4, no one knows. Because previously, there is an architecture card and explanation how it works for GPT-3 and a bit about 3.5. But there is no card about GPT-4. So they do not reveal their architecture. Because right now, this is the IP, intellectual property, and no one will do that. Maybe a thought of Lama.
+Speaker 8
+Yeah, so people just, it's a service right now.
+Speaker 11
+Yeah, it's still a black box. That's what I understand. And we don't know for sure if it's really a reasonable model, or it's just a learning model or a statistical model or whatever it is. I mean, okay. Yeah, yeah. Yeah, actually.
+Speaker 8
+So it's a good thing to focus on and to think about. But right now, I think, I was curious, first, several months. So right now, I'm curious. But my question is, how I can benefit from that, right? So how I can gain some benefits personally? Yes.
+Speaker 11
+Yeah, got it. But one more point regarding Ruslan's earlier idea of internalizing or using models. It's kind of a joke, a real case, actually. One company used a model, they kind of adopted an LLM model, and they started using it to ask questions, or they fed all the information, they gave access to everything. And then what happened is that when someone asked some questions, it returned even the confidential communication between the top management. So the CEO was sending some confidential emails, and then the model showed those emails or kind of retrieved the information.
+Speaker 6
+So you got to be really careful with this model. They wouldn't know what is confidential when it's not confidential.
+Speaker 8
+Yeah, they just don't care. They just care about the text itself. Yeah. Okay, I've seen the hand raised by Anna. Anna, is it still valid?
+Speaker 9
+Yeah, it's still valid. Yeah, it's still valid.
+Speaker 8
+Yeah, so this is the the motto of all like machine learning. Nobody knows how it works, but it works, right? Yeah, so you're right. There is like supervised learning, unsupervised. So supervised is when the person. So actually, how the learning works, like, imagine the system, I don't know, the child, right? So the child is trying to write, draw the letters like A, B, and C. So the child draws the letter. I was like, if it's okay, I say no. Okay, another one. If it's okay, yes.
+Speaker 8
+So the whole process of training machine learning model is to give the answer, is it the right or not? Or maybe like, what's the difference? What's the distance between the right answer and the wrong? And the goal of machine learning model is randomize or like approximate the function or the weight or the bias to reduce this distance between the right and the current predicted, right? And this can be done like by human feedback. This can be done by model itself. So actually, you can train one model using another model. So different, different ways, but the training process is super expensive. And my assumption is, when I asked the question, so as far as I remember, they, they said, like, 4 billion probably questions to charge a PT comes every day. I'm not sure this number is correct. But imagine retraining the model 4 billion times a day, super expensive.
+Speaker 8
+So yeah, that's why I think the core, the core stays the same, the core stays the same. But there may be additional small models, like adapters, which can be tuned. For example, we have the Olympic Games in Paris, right? So if you ask the model about the Olympic Games result, it will give you the answers. And it doesn't mean like it knows all the events.
+Speaker 10
+Right?
+Speaker 8
+So maybe they just inserted the knowledge about the Olympic Games. I don't know, like, the major knowledge from Wikipedia or something like that. So nobody knows. But that's kind of like, that's a good questions. And I'm afraid I will not have the answers to all of them.
+Speaker 9
+Yeah, there's nobody. Thank you.
+Speaker 8
+All right, guys, it's, it's very cool to discuss my stuff with you. But let's save, let's save some questions to the further sessions, right? We have 20, probably 20 sessions, right? A lot of things, a lot of things to discuss. Yeah. Okay. So summing up, I will share the materials. I think I will share them probably as PPTX. I don't know if they will be translated to the PDF, probably we're going to lose the notes. Anyway, I will share somehow. Next session, we continue discussing AML and talking about LLMs.
+Speaker 8
+And next week, we will start working with your favorite programming language, which should be Python, I suppose. Okay. All right, guys. Thank you so much. I think Lena or me, someone will drop you a message like, well, the materials, upload it and learn. So see you on Thursday. Yep. Good luck, everyone.
+Speaker 1
+Thank you very much. Bye bye. Thanks. Bye bye, everyone.
+Speaker 9
+Just to follow up, we have to submit only the form with the link to our github website for today.
+Speaker 8
+Fork repository and submit the form for today. Yeah, that's it.
+Speaker 9
+Good. Thank you.
+Speaker 5
+Good. See you, bye.
+Speaker 9
+Bye bye.
+Speaker 5
+Thanks.
