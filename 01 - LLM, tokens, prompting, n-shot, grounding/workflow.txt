@@ -1,0 +1,31 @@
+
+## Workflow for Creating the Blog Post
+
+### Purpose
+This file documents the process and steps used to create the blog post and any associated assets (e.g., images or diagrams). It serves as a record of how the content was created.
+
+### Prompts
+1. Summarize the first lecture from the transcript.
+2. Create a diagram showing the relationship between AI, ML, and NLP.
+3. Generate a GitHub repository structure illustration.
+4. Design a course structure illustration with three key themes.
+5. Provide practical coding tools visuals.
+6. Add comments for students on how to approach tasks from the lecture.
+
+### Completions
+1. Blog post content summarizing key lecture points.
+2. AI vs ML diagram generated as a placeholder for visualization.
+3. Course structure illustration added to the blog.
+4. Practical tools mockup created to represent GitHub and Python usage.
+5. Comments for tasks included in the blog post to guide students.
+
+### Workflow Steps
+1. Extracted key themes and insights from the transcript to structure the blog post.
+2. Generated blog content emphasizing the lecture's purpose, highlights, and practical takeaways.
+3. Used DALL·E to generate illustrations for:
+   - Course structure overview.
+   - Relationship between AI, ML, and NLP.
+   - Practical coding tools.
+4. Embedded illustration placeholders in the blog post.
+5. Added comments at the end of the blog to guide students on task completion.
+6. Saved the blog content to `README.md` and documented the process in this file.
